@@ -1,0 +1,1 @@
+Ky projekt eshte per Rock Paper Scissors
